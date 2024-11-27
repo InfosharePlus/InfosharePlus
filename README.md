@@ -1,4 +1,4 @@
-# Infoshare
+# InfosharePlus
 
 Founded in 1998, we are a proud SME who stands out in an industry of data giants by doing things differently. We believe in helping businesses to use their data for good – we achieve this by using our technology for good. For instance, for over 20 years we have helped public and private sector organisations identify vulnerable people within their disparate data, including children at risk and crime victims, to fast track the vital support and interventions they need.
 
